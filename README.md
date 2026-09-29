@@ -1,28 +1,37 @@
-# Olá! 👋
+```text
+╔══════════════════════════════════════════════╗
+║  root@anderxyzk:~$ whoami                   ║
+╚══════════════════════════════════════════════╝
 
-Sou desenvolvedor Back-end em formação, com foco em Java e desenvolvimento de APIs.
+> Anderson
 
-### 🛠️ Tecnologias
+[+] Backend Developer in formation
+[+] Java
+[+] Spring Boot
+[+] MySQL
+[+] Docker
+[+] Git / GitHub
+[+] Linux
 
-- Java
-- Spring Boot
-- MySQL
-- Docker
-- Git e GitHub
-- Linux
+┌──[ currently_learning ]
+│
+├── Spring Boot
+├── REST APIs
+├── SQL
+└── Backend Development
 
-### 📚 Atualmente estudando
+┌──[ interests ]
+│
+├── Backend
+├── Databases
+├── Linux
+├── Networks
+└── Cybersecurity
 
-- Spring Boot
-- Desenvolvimento de APIs REST
-- Banco de dados
-- Docker
+root@anderxyzk:~$ ./build.sh
 
-### 📂 Projetos
-
-Aqui você encontrará alguns dos meus projetos e estudos em programação.
-
-### 📫 Contato
-
-- LinkedIn: seu-link
-- Email: seu-email
+[INFO] Learning...
+[INFO] Building projects...
+[INFO] Improving skills...
+[OK] System online.
+```
