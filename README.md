@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Anderxyzk/Anderxyzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Back-end em formação, com foco em Java e desenvolvimento de APIs.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- MySQL
+- Docker
+- Git e GitHub
+- Linux
+
+### 📚 Atualmente estudando
+
+- Spring Boot
+- Desenvolvimento de APIs REST
+- Banco de dados
+- Docker
+
+### 📂 Projetos
+
+Aqui você encontrará alguns dos meus projetos e estudos em programação.
+
+### 📫 Contato
+
+- LinkedIn: seu-link
+- Email: seu-email
