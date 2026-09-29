@@ -3,35 +3,25 @@
 ║  root@anderxyzk:~$ whoami                   ║
 ╚══════════════════════════════════════════════╝
 
-> Anderson
+> Anderson Eloi de Oliveira Junior
 
-[+] Backend Developer in formation
+[+] Desenvolvedor Back-end em formação 
 [+] Java
-[+] Spring Boot
 [+] MySQL
-[+] Docker
 [+] Git / GitHub
 [+] Linux
 
-┌──[ currently_learning ]
+┌──[ aprendendo ]
 │
 ├── Spring Boot
 ├── REST APIs
 ├── SQL
-└── Backend Development
+└── Desenvolvimento Back-end
 
-┌──[ interests ]
+┌──[ interesses ]
 │
-├── Backend
+├── Back-end
 ├── Databases
 ├── Linux
-├── Networks
-└── Cybersecurity
-
-root@anderxyzk:~$ ./build.sh
-
-[INFO] Learning...
-[INFO] Building projects...
-[INFO] Improving skills...
-[OK] System online.
+└── Funcionamento de Redes
 ```
